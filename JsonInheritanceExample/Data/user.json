@@ -1,0 +1,15 @@
+
+[
+  {
+    "$type": "Admin",
+    "Name": "Alice",
+    "Role": "Administrator",
+    "Permissions": [ "read", "write", "delete" ]
+  },
+  {
+    "$type": "RegularUser",
+    "Name": "Bob",
+    "Role": "User",
+    "SubscriptionLevel": "Gold"
+  }
+]
